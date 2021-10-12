@@ -1,23 +1,28 @@
  # README-md
  # CLI - Tools
 
- ## Register-editor
+ ## Register-editor:
+ 
  -Locatie:   C:\Windows\regedit.exe
  -doel: BewerkingsEditor
  https://nl.nex-software.com/wat-regeditexe
 
- ## Paint
+ ## Paint:
+ 
  -Locatie:  C:\Windows\Paint.exe
  -doel:  eenvoudige tekeningen maken
 
- ## winhlp32
+ ## winhlp32:
+ 
  -Locatie: C:\Windows\winhlp.exe
  -doel: Hulp-Programma
 
- ## Explorer
+ ## Explorer:
+ 
  -Locatie: C:\Windows\explorer.exe
  -Doel: Browser
 
- ## Notepad
+ ## Notepad:
+ 
  -Locatie: C:\Windows\notepad.exe
  -Doel: tekst editor
