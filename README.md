@@ -5,7 +5,7 @@
  
 - Locatie:   C:\Windows\regedit.exe
 - doel: BewerkingsEditor
-https://nl.nex-software.com/wat-regeditexe
+- Site: https://nl.nex-software.com/wat-regeditexe
 
 ## Paint:
  
